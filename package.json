@@ -1,0 +1,25 @@
+{
+  "name": "spriteswap",
+  "version": "1.0.0",
+  "description": "a sprite palette swapping utility",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "pngjs": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyria/spriteswap.git"
+  },
+  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seiyria/spriteswap/issues"
+  },
+  "homepage": "https://github.com/seiyria/spriteswap#readme"
+}

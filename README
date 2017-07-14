@@ -1,0 +1,9 @@
+# Spriteswap
+
+Swap the palette of a sprite or spritesheet.
+
+## Usage
+
+`node index.js --image mysprite.png --palette mypalette.gpl --out mymodsprite.png`
+
+Palette must be a gpl (gimp palette). Images must be pngs.
